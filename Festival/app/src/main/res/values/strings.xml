@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Festival</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FestivalApp</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">button</string>
+    <string name="costs_overview">Costs Overview</string>
+    <string name="total">Total</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="new_costs">New Costs</string>
+    <string name="enter_date_hint">Enter Date Hint</string>
+    <string name="calculate_remaining_days_btn">Calculate Remaining Day</string>
+</resources>
